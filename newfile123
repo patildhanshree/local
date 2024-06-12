@@ -1,4 +1,9 @@
  added lines.
  new lines and some heading
+<<<<<<< HEAD
  button..
  paragrapgh
+=======
+ button.
+ heading.
+>>>>>>> feature2
